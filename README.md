@@ -14,8 +14,8 @@ CropGuard is a desktop application designed to protect crops by detecting the pr
 To use CropGuard on your PC, follow these steps:
 
 1. Clone or download the repository to your local machine.
-2. Open the project directory and navigate to the `index.html` file.
-3. Open `index.html` using a web browser (e.g., Google Chrome, Mozilla Firefox).
+2. Open the project directory and navigate to the `camera.html` file.
+3. Open `camera.html` using a web browser (e.g., Google Chrome, Mozilla Firefox).
 4. Grant necessary permissions for camera access if prompted.
 5. Configure notification preferences and sensitivity settings based on your requirements.
 6. Place your PC in a strategic location within the agricultural field.
@@ -38,10 +38,6 @@ We welcome contributions from the community to enhance CropGuard's functionality
 3. Write appropriate tests to validate your changes.
 4. Submit a pull request, describing the changes you've made and the problem they address.
 
-## License
-
-CropGuard is licensed under the [MIT License](LICENSE), allowing users to modify and distribute the application freely.
-
 ## Contact
 
-For inquiries or support regarding CropGuard, please contact the development team at cropguard@example.com.
+For inquiries or support regarding CropGuard, please contact the development team at musoniiisaac@gmail.com.
