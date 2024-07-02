@@ -40,4 +40,4 @@ We welcome contributions from the community to enhance SkyGuard's functionality 
 
 ## Contact
 
-For inquiries or support regarding CropGuard, please contact the development team at musoniiisaac@gmail.com.
+For inquiries or support regarding SkyGuard, please contact the development team at musoniiisaac@gmail.com.
